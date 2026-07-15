@@ -75,7 +75,9 @@ int main(){
     q.push(22);
     q.pop();
     q.pop();
-
+int x=q.start();
+    if(!q.Isempty());
+    cout<<x<<" ";
 }
-    
+
  
